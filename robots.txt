@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dogandponybrewing.com/sitemap.xml
